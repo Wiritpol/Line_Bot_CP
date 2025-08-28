@@ -1,0 +1,12 @@
+การวิเคราะห์โครงสร้างเว็บไซต์
+==================================================
+
+JavaScript Frameworks: ['Next.js']
+
+Product Classes: ['align-items-center', 'nav-item', 'item-info', 'item', 'grid-filter-products', 'menu-item', 'page-item', 'dropdown-item']
+
+Price Classes: ['filter-price', 'pricetag', 'list-price']
+
+Stock Classes: []
+
+All Classes (sample): ['align-items-center', 'b-skeleton-img', 'footer-service', 'navbar', 'pagination', 'icon-cookie', 'icon-lock', 'btn-block', 'header-action', 'header-menu', 'dropdown-menu', 'mb-0', 'justify-content-center', 'input-group-append', 'cookies-bar', 'bg-filter', 'btn-policy', 'megamenu-bg', 'nav-item', 'logo', 'item-info', 'dropdown-toggle', 'icon-da', 'mt-3', 'shadow', 'btn-link', 'bg-dark', 'b-skeleton-text', 'align-middle', 'brand-text', 'icon-comment', 'icon-chevron-right', 'icon-chevron-left', 'category-panel', 'category-btn', 'home-topbar', 'd-lg-block', 'tag', 'mt-lg-0', 'custom-select-sm', 'navbar-expand', 'col-md-4', 'form-control', 'pl-4', 'wrapper-body', 'd-flex', 'pl-md-0', 'sidebar-bottom', 'ml-4', 'title']
