@@ -14,8 +14,8 @@ import re
 app = Flask(__name__)
 
 # LINE Credentials
-CHANNEL_SECRET = '6fa3fae3a93a0fa521e4f1e6779e4499'
-CHANNEL_ACCESS_TOKEN = 'jxO7jKpnn4jjvbp1/gnwJW6Ps0Gf40B6Rc7ljl14ll6VjBdBBOgl8TRWqVKJ3gixmvJgT1iOAWRjdww3wHrdVDByBYiUMIO67uSuZqxdK4TZ2N+gymKnpTLkjOUlzAAYe8N75PRJq0/+I5osNm1E6AdB04t89/1O/w1cDnyilFU='
+CHANNEL_SECRET = 'xxx'
+CHANNEL_ACCESS_TOKEN = 'xxx'
 
 # Ollama Configuration
 OLLAMA_URL = "http://localhost:11434/api/generate"
@@ -545,4 +545,5 @@ def handle_message(event):
 
 
 if __name__ == "__main__":
+
     app.run(port=5000)
